@@ -18,8 +18,6 @@
 </channel>
   </channels>
 
-
-
 <channels>
 
 <channel>
@@ -42,23 +40,12 @@
 </channel>
    </channels>
 
-<channels>
-
 <channel>
-     <name>[COLOR lime]Money Sports[/COLOR]</name>
-   <thumbnail>http://imagizer.imageshack.us/a/img540/7559/J8V8wH.jpg</thumbnail>
+     <name>[COLOR lime]24/7 Shows[/COLOR]</name>
+   <thumbnail>http://imagizer.imageshack.us/a/img661/7513/rRaExv.jpg</thumbnail>
 <fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
 <link>http://ignoreme</link>
-    <externallink>http://dl.dropboxusercontent.com/s/x3jqll3ojnu8khi/Moneysports.xml?dl=0</externallink>
-</channel>
-   </channels>
-   
-   <channel>
-     <name>[COLOR lime]Money Sports live football[/COLOR]</name>
-   <thumbnail>http://imagizer.imageshack.us/a/img540/7559/J8V8wH.jpg</thumbnail>
-<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
-<link>http://ignoreme</link>
-    <externallink>http://dl.dropboxusercontent.com/s/as6euteptyasp86/LIVE%20FOOTBALL%20MENU.XML?dl=0</externallink>
+    <externallink>http://dl.dropboxusercontent.com/s/3d2vwkq2xmdetso/Shadow%20Crew%2024%207%20Shows.xml?dl=0</externallink>
 </channel>
    </channels>
 
@@ -73,24 +60,34 @@
 </channel>
    </channels>
 
+<channels>
+
 <channel>
-     <name>[COLOR lime]24/7 Shows[/COLOR]</name>
-   <thumbnail>http://imagizer.imageshack.us/a/img661/7513/rRaExv.jpg</thumbnail>
+     <name>[COLOR lime]Money Sports[/COLOR]</name>
+   <thumbnail>http://imagizer.imageshack.us/a/img540/7559/J8V8wH.jpg</thumbnail>
 <fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
 <link>http://ignoreme</link>
-    <externallink>http://dl.dropboxusercontent.com/s/3d2vwkq2xmdetso/Shadow%20Crew%2024%207%20Shows.xml?dl=0</externallink>
+    <externallink>http://dl.dropboxusercontent.com/s/x3jqll3ojnu8khi/Moneysports.xml?dl=0</externallink>
+</channel>
+   </channels>
+   
+   <channel>
+     <name>[COLOR lime]Money Sports Live Events[/COLOR]</name>
+   <thumbnail>http://imagizer.imageshack.us/a/img540/7559/J8V8wH.jpg</thumbnail>
+<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>http://dl.dropboxusercontent.com/s/as6euteptyasp86/LIVE%20FOOTBALL%20MENU.XML?dl=0</externallink>
 </channel>
    </channels>
 
 <channels>
 
 <channel>
-     <name>[COLOR lime]Brazilian 24/7 Shows[/COLOR]</name>
-   <thumbnail>http://imagizer.imageshack.us/a/img633/7615/wbl4Mw.jpg</thumbnail>
+     <name>[COLOR lime]Money Sports Replays[/COLOR]</name>
+   <thumbnail></thumbnail>
 <fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
 <link>http://ignoreme</link>
     <externallink>http://ignoreme</externallink>
-<info>COMING SOON</info>
 </channel>
    </channels>
 
@@ -104,7 +101,6 @@
     <externallink>http://ignoreme</externallink>
 </channel>
    </channels>
-
 
 <channels>
 
