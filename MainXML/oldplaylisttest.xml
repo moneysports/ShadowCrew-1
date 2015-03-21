@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <item>
-        <title>husham english m3u8</title>
-        <link>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u8</link>
-        <fanart>http://fanart.jpg</fanart>
-    </item>
+	<channel>
+    <name>husham english m3u8</name>
+	<thumbnail>http://imageshack.com/a/img633/9996/YYrjeG.jpg</thumbnail>
+	<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
+	<link>http://ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u8</externallink>
+</channel>
