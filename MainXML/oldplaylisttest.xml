@@ -1,48 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Settings>
-<ProvPlaylistURL encoding="UTF8" epgName="" format="m3u" name="husahm" value="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<GUILanguage value="Auto"/>
-<StartupPlaylistsDownload value="no"/>
-<StartupEPGDownload value="no"/>
-<StartupCheckChannelsSignal value="no"/>
-<StartupMode mode="Normal" value="settings"/>
-<CheckOnlyUDPChannels value="no"/>
-<AutoDownloadPlaylistsTimer enabled="no" value="-1"/>
-<AutoDownloadEPGTimer enabled="no" value="-1"/>
-<AutoCheckChannelsSignalTimer enabled="no" value="-1"/>
-<ChannelsWaitingTimeout value="5"/>
-<CheckingSignalTriesQnt value="1"/>
-<FullscreenDisplay value="0"/>
-<ZoomSDMedia fitWidth="no" value="1.0"/>
-<ChangeFullscreenRefreshRate value="no"/>
-<XBMCPlaylist value=""/>
-<LogosDirectory value=""/>
-<MediaFilesDirectory value=""/>
-<DefaultDeintMode value="Default"/>
-<RenderPriority value="Quality"/>
-<HideChannelsList value="no"/>
-<Volume mute="no" value="1.0"/>
-<EPGFile value=""/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Kybo Small List" line2="http://pastebin.com/raw.php?i=exUzLZzx" name="Kybo Small List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Money Sports List" line2="http://is.gd/moneysportsaplus" name="Money Sports List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Money Sports replays List Replays" line2="http://is.gd/footballreplaysmoneysports" name="Money Sports replays List Replays" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,Matthew Shotton" line2="http://bit.ly/mattsradiolist" name="Matthew Shotton" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,HD King (Full HD)" line2="http://hdking.square7.ch/HDKing.m3u" name="HD King (Full HD)" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, krazyanna (Polish TV)" line2="http://krazyanna.com/PL/polskie.m3u" name="krazyanna (Polish TV)" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Thanasis Athanasopoulos(World TV)" line2="http://bit.ly/listchannelstns" name="Thanasis Athanasopoulos(World TV)" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Teddy Bad Boy List" line2="http://pastebin.com/raw.php?i=D3D7rJGt" name="Teddy Bad Boy List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Adam Mcdonald List" line2="http://xmltvguide.info/epg/iptv.m3u" name="Adam Mcdonald List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,Deon Wallace List" line2="http://pastebin.com/7T2qCAm8" name="Deon Wallace List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, HUSHAM uk-english" line2="https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u" name="HUSHAM uk-english" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Husham Sport" line2="https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u" name="Husham Sport" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Husham USA Links" line2="https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/usalive.m3u" name="Husham USA Links" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Husham Arabic List" line2="http://pastebin.com/raw.php?i=3ypU8xTq" name="Husham Arabic List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Husham Bengali Live TV" line2="https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/Bengali.txt" name="Husham Bengali Live TV" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Husham Hindi Live TV" line2="https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/hindi.m3u" name="Husham Hindi Live TV" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Damir Krličević" line2="http://pastebin.com/raw.php?i=Jm4LM9M0" name="Damir Krličević" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, Pedroukuku" line2="http://pastebin.com/2p1GMkhU" name="Pedroukuku" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1, NFSFan List" line2="http://bit.ly/NFSFanKodi" name="NFSFan List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,Raul Delgado List" line2="http://pastebin.com/XSL4yA8m" name="Raul Delgado List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,Idriss Yepmou List" line2="http://bit.ly/1A6ZPpD" name="Idriss Yepmou List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-<ChannelInfo addDate="2015.03.21 11:03:39" line1="#EXTINF:-1,Little Lisa List" line2="http://dl.dropboxusercontent.com/s/47slv27myfw7ooh/Little%20Lisa%20Films.m3u?dl=0" name="Little Lisa List" provider="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D"/>
-</Settings>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <item>
+        <title>kybo small</title>
+        <link>https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/playLists.m3u?token=AGn4ZzBJe4kA1wRSP0JZEpcLttdAUYdFks5VFoctwA%3D%3D</link>
+        <fanart>http://fanart.jpg</fanart>
+    </item>
