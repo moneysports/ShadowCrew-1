@@ -28,7 +28,7 @@ http://xmltvguide.info/epg/iptv.m3u
 http://pastebin.com/7T2qCAm8
 
 #EXTINF:-1, HUSHAM uk-english
-https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u
+https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u8
 
 #EXTINF:-1, Husham Sport
 https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u
