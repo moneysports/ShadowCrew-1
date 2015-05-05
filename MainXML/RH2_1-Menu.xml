@@ -220,11 +220,11 @@
 <channels>
 
 <channel>
-     <name>[COLOR white][/COLOR]</name>
+     <name>[COLOR white]TEST[/COLOR]</name>
    <thumbnail></thumbnail>
 <fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
 <link>http://ignoreme</link>
-    <externallink></externallink>
+    <externallink>http://shadowcrew.info:2082/cpsess3301375909/frontend/x3/filemanager/showfile.html?file=test.xml&fileop=&dir=%2Fhome%2Fadammilburn%2Fpublic_html%2Frepo&dirop=&charset=&file_charset=&baseurl=&basedir=</externallink>
 </channel>
    </channels>
 
