@@ -220,11 +220,11 @@
 <channels>
 
 <channel>
-     <name>[COLOR white][/COLOR]</name>
+     <name>[COLOR white]TEST[/COLOR]</name>
    <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-    <externallink></externallink>
+    <externallink>http://repo.shadowcrew.info/Enigma%20Test.xml</externallink>
 </channel>
    </channels>
 
