@@ -220,11 +220,11 @@
 <channels>
 
 <channel>
-     <name>[COLOR white]TEST[/COLOR]</name>
-   <thumbnail>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</thumbnail>
-<fanart>http://imagizer.imageshack.us/a/img661/8098/tEIDPa.jpg</fanart>
+     <name>[COLOR white][/COLOR]</name>
+   <thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-    <externallink>http://repo.shadowcrew.info/test.xml</externallink>
+    <externallink></externallink>
 </channel>
    </channels>
 
