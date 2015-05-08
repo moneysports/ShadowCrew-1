@@ -160,6 +160,16 @@
 </channel>
    </channels>
 
+  <channels>
+
+<channel>
+     <name>[COLOR white]Movie Night[/COLOR]</name>
+   <thumbnail>http://townofulsterlibrary.org/files/2015/01/movie-night.png</thumbnail>
+<fanart>http://www.unityoftheoaks.org/sites/unityoftheoaks.org/files/MovieNight.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/Kybo/Kybo-Super-Life/master/mega%20movies</externallink>
+</channel>
+   </channels>
   
 <channels>
 
