@@ -1,9 +1,0 @@
-﻿<settings>
-    <category label="Add Source">
-    <setting id="Update Sourec" type="bool" values="Enter URL" label="Choose Source Type" default=""/>
-    <setting id="new_url_source" type="text" label="Add URL" default="https://raw.githubusercontent.com/hmemar/ShadowCrew/master/MainXML/RH2.0-Menu.xml?token=AGn4Z28Jg4gcbG_4w8rwm7sz0Oi5HdFjks5VEk8owA%3D%3D" visible="eq(-2,1)"/>
-    <setting type="sep" />
-    <setting type="action" label="Add Source" option="close" action="RunPlugin(plugin://plugin.video.RobinHood-PPL-List/?mode=7)" />
-    <setting type="sep" />
-  </category>
-  </settings>

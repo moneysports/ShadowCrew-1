@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.RobinHood-PPL-List"
-       name="RobinHood-People List"
-       version="2.0"
+<addon id="plugin.video.Husham"
+       name="Husham"
+       version="1.0.0"
        provider-name="Husham.com">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
@@ -12,19 +13,19 @@
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
+    <import addon="plugin.video.youtube" version="3.0.0"/>
     <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />    
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>  
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">RobinHood People Lists - downloaded for free from:
-http://www.husham.com</summary>
-    <description lang="en">RobinHood-People List - The shadow crew finest addon
-	The ShadowCrew Has been working round the clock to make this addon working great for all.
-	http://www.husham.com 
+    <summary lang="en">Husham Lists</summary>
+    <description lang="en">Husham Lists
+	P.S. Special Thanks to Shani for his Excellent work for LiveStream Pro add-on
 </description>
     <platform>all</platform>
   </extension>
